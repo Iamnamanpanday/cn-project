@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+networkx
+plotly
+streamlit
+fastapi
+uvicorn
+python-multipart

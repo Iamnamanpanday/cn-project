@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+primaryColor = "#ff3b30"
+backgroundColor = "#07090a"
+secondaryBackgroundColor = "#0b0f10"
+textColor = "#c7d1cf"
+font = "monospace"
+
+[browser]
+gatherUsageStats = false
+streamlit run app_soc.py
